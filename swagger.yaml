@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: 📖 Minimalist Book Manager API
+  description: Need a helping hand to manage your books 😺? Well, you're in luck! This API will let you manage your books with ease! 😻
+  version: 0.1.0
+paths:
+  /api/v1/books:
+    get:
+      summary: Returns all books
+      responses:
+        "200":
+          description: A JSON array of books
