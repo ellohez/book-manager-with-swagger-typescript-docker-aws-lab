@@ -102,7 +102,7 @@ With the container still running, open up your browser and go to:
 
 [http://localhost:3000/api/v1/books](http://localhost:3000/api/v1/books)
 
-You should see your application respond with the JSON for an empty array of Books.
+You should see your application respond with the JSON for the two Books which are in the seed data for the API.
 
 You can also see some corresponding Swagger documentation
 
