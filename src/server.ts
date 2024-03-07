@@ -5,7 +5,7 @@ dotenv.config({ path: `.env.${environment}` });
 import { app } from "./app";
 import { populateDummyData } from "./database/database_seed";
 
-const PORT = process.env.PORT;
+const PORT = 3000;
 
 console.log(`🌍 Running in ${environment} environment`);
 

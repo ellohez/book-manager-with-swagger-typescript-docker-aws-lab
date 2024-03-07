@@ -79,6 +79,7 @@ Before moving on to installing the dependencies (as defined in the package.json)
 
 ```dockerfile
 RUN npm install --production
+RUN npm install nodemon
 ```
 
 Once the dependencies are installed notice that there is a second stage where we seem to define another base image.

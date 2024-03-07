@@ -7,6 +7,7 @@ COPY package.json .
 COPY swagger.yaml .
 COPY ./src ./src
 RUN npm install --production
+RUN npm install nodemon
 
 # Part 2
 # This build takes the built code from part 1
