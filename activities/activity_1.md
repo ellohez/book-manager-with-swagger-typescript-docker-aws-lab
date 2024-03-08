@@ -4,7 +4,7 @@
 
 ## 🔎 Exercise 1.1 - Exploring the Code
 
-If you have previously created a JavaScript Express API then most of the files should look familiar.
+If you have previously created a TypeScript Express API then most of the files should look familiar.
 
 However, there is one new file to point out and that is the [Dockerfile](../Dockerfile).
 
