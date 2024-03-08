@@ -8,7 +8,7 @@ Now its deployment time! We'll utilise [AWS Elastic Beanstalk](https://aws.amazo
 
 Have a watch of this video in order to deploy your application
 
-[Deploying to Elastic beanstalk](./deploying_to_aws_elastic_beanstalk.mp4)
+[Deploying to Elastic beanstalk](./deploying_to_aws_elastic_beanstalk_mar24.mp4)
 
 (Click "View Raw" or "Download" to view the video)
 
