@@ -91,8 +91,6 @@ The **-p** part of the command stands for **publish** a container's ports.
 
 Essentially this says forward ALL requests made on your computer to port 3000 on to port 3000 within the container.
 
-By default, Spring applications start a server listening on port 3000.
-
 </pre>
 </details>
 
