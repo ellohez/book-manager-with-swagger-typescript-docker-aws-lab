@@ -76,7 +76,7 @@ To run your docker container, run the following command:
 **NOTE:** If you changed the **book-manager-api:1.0** part of the build command (step 2.5) then you'll need to update the command below:
 
 ```
-docker run -p 3000:3000 --env-file ./.env book-manager-api:1.0
+docker run -p 3000:3000 --env-file ./.env.dev book-manager-api:1.0
 ```
 
 All being well it should start up your API running as a Docker container.
